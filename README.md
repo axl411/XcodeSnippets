@@ -1,0 +1,1 @@
+Xcode snippets backup, location: `~/Library/Developer/Xcode/UserData/CodeSnippets/`
